@@ -1,0 +1,9 @@
+./pokeman
+pokeman/*
+model.pkl
+*pkl
+pokemon_ckp.txt
+__pycache__/*
+*.model
+.idea/*
+
